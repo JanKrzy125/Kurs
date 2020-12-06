@@ -25,7 +25,7 @@
     <input type="submit" name="submit" value="Send" />
 </p>
 <p>
-    <input type="showUser" name="showUser" value="Send" />
+    <input type="submit" name="showUser" value="Send" />
 </p>
 
 <?php
